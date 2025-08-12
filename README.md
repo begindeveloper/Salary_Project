@@ -1,5 +1,5 @@
 # Salary of Data Professions Analysis
-Data Science project analysis on what certain professions make.
+Data Science project analysis on what certain professions make in the data analysis field
 
 ## [Tasks: Collection, Scraping and cleaning, and presentation of graphical data, and creation of prediction model for the data]
 * Collect Data from Kaggle.com 
